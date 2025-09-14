@@ -1,1 +1,6 @@
-
+Install Angular:
+1. Install Nodejs
+2. Paste npm install -g @angular/cli and install if execution error run, Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+3. Create new project, ng new my-app
+Reference: https://angular.dev/tools/cli/setup-local#install-the-angular-cli
+Typescript basics: https://att-c.udemycdn.com/2018-11-08_14-14-44-a15c26ac62f226c01ffa01844155d253/original.pdf?response-content-disposition=attachment%3B+filename%3DTypescript_Jumpstart_Book_Udemy.pdf&Expires=1757844325&Signature=dj89JbRUBTIy6Cimr4t-OU1Y6VEUhA7nyXo5IIxW0S~kcp3vNZi1sFsamUL0hputA7Vmpd1FhjHKVaxXXwlnNoKPw7PBja-CIM9qAwBjEFVXgBT0tBzkDqC-sjaua3pQ6GQtnDkTGSvLQbXVqdsoV1QlQWUfX9g373BwG9nspZtM3MQANu1C1bgNu~OERrNxDbk8mkZ-UIGAk64cRK~4UBNJm7Y3jrZ8znLAuBDSnJhMVSn4ZdQ6jQTkIDkPtirF0ZHGb0Q4IhfR8-OnTDS97fxaaYjSebQX1BQxxRXVrByG7NGdZ25Vh2N3oQh5iuNnTtMNhVUUAhv~WfMuxjGoAg__&Key-Pair-Id=K3MG148K9RIRF4
